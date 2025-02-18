@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(223, 219, 219);
+  height: 100vh;
+}
+
+.father-container {
+  max-width: 600px;
+  margin: 1rem auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.h2 {
+  margin: 1rem;
+  font-weight: 100;
+}
+
+.money {
+  font-weight: bold;
+}
+
+.father-card {
+  display: flex;
+}
+
+.right-card {
+  width: 44%;
+  text-align: center;
+  background-color: white;
+  margin: 1rem;
+}
+
+.green-money {
+  font-weight: bold;
+  color: green;
+}
+
+.left-card {
+  width: 44%;
+  text-align: center;
+  background-color: white;
+  margin: 1rem;
+}
+.red-money {
+  color: red;
+}
+
+.history {
+  margin: 1rem;
+}
+
+.long-card {
+  background-color: white;
+  padding: 8px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.Add-button {
+  width: 100%;
+  margin: 1rem auto;
+  padding: 10px;
+  border-radius: 7px;
+  background-color: rgb(64, 154, 213);
+  color: white;
+}
