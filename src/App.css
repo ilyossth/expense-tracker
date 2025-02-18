@@ -34,6 +34,7 @@ body {
   text-align: center;
   background-color: white;
   margin: 1rem;
+  border-radius: 18px;
 }
 
 .green-money {
@@ -46,6 +47,7 @@ body {
   text-align: center;
   background-color: white;
   margin: 1rem;
+  border-radius: 18px;
 }
 .red-money {
   color: red;
@@ -58,6 +60,7 @@ body {
 .long-card {
   background-color: white;
   padding: 8px;
+  border-radius: 18px;
 }
 
 .input {
@@ -73,4 +76,5 @@ body {
   border-radius: 7px;
   background-color: rgb(64, 154, 213);
   color: white;
+  border-radius: 18px;
 }
